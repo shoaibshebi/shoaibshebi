@@ -6,6 +6,8 @@
 
 ### About Me 🚀
 
+<br/>
+
 ## 'm a Frontend & Blockchain Developer, Some FullStack😅, Tech Enthusiast, and Reader!!
 
 <br/>
