@@ -1,8 +1,14 @@
 ### Hi there, I'm Shoaib - [Portfolio][website] 👋
 
+<hr />
+
+<!-- Pic section -->
+
 ### About Me 🚀
 
 ## 'm a Frontend & Blockchain Developer, Some FullStack😅, Tech Enthusiast, and Reader!!
+
+<br/>
 
 ### Connect with me:
 
@@ -14,15 +20,19 @@
 <br />
 
 - 👨‍🎓 **Always Student** with a bachelor's degree in Computer Science. </br>
-- 💻 **Experienced Developer** with **4** Years in React js adding Redux , Saga , Material Ui </br>
-- 👨🏼‍💻 **Technologies Worked On:** React js | Redux | Node js | Blockchain | Hyperledger | React Native | Dockers | MongoDB | SQL </br>
-- 👨🏼‍💻 **Exploring Startups** and seeking opertunities to work with </br>
+- 💻 **Experienced Developer** with **4** Years in React js having Redux , Saga , Material Ui & Node </br>
+- 👨🏼‍💻 **Technologies Worked On:** React js | Redux | Node js | Blockchain | Hyperledger | React-Native | Dockers | MongoDB | SQL | PHP </br>
+- 👨🏼‍💻 **Exploring Startups** and seeking opertunities to work with them</br>
 - 💬 Feel more than welcome to contact me if you need any help </br>
-
-<b><i>Believe that technology and software development has the power to change people's lives for the better.
 
 <br/>
 <hr />
+
+<div align="center">
+  <a href="https://github.com/Shoaib7889">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shoaib7889&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib7889&layout=compact&langs_count=7&theme=gradient"/>
+</div>
 
 ### Languages and Tools:
 
