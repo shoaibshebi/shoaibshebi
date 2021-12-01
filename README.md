@@ -15,7 +15,6 @@
 - 💬 Feel more than welcome to contact me if you need any help </br>
 
 <br/>
-<hr />
 
 ### Connect with me:
 
@@ -24,7 +23,7 @@
 [<img align="left" alt="Shoaib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shoaib | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
-<br /><br />
+<hr /><br />
 
 <div align="center">
   <a href="https://github.com/Shoaib7889">
