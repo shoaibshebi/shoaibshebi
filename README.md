@@ -2,11 +2,7 @@
 
 <hr />
 
-<!-- Pic section -->
-
 ### About Me 🚀
-
-<br/>
 
 ## 'm a Frontend & Blockchain Developer, Some FullStack😅, Tech Enthusiast, and Reader!!
 
@@ -19,7 +15,7 @@
 [<img align="left" alt="Shoaib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shoaib | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
-<br />
+<br /><br />
 
 - 👨‍🎓 **Always Student** with a bachelor's degree in Computer Science. </br>
 - 💻 **Experienced Developer** with **4** Years in React js having Redux , Saga , Material Ui & Node </br>
