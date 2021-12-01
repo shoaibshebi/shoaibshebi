@@ -8,15 +8,6 @@
 
 <br/>
 
-### Connect with me:
-
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Shoaib | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Shoaib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shoaib | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-
-<br /><br />
-
 - 👨‍🎓 **Always Student** with a bachelor's degree in Computer Science. </br>
 - 💻 **Experienced Developer** with **4** Years in React js having Redux , Saga , Material Ui & Node </br>
 - 👨🏼‍💻 **Technologies Worked On:** React js | Redux | Node js | Blockchain | Hyperledger | React-Native | Dockers | MongoDB | SQL | PHP </br>
@@ -25,6 +16,15 @@
 
 <br/>
 <hr />
+
+### Connect with me:
+
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Shoaib | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Shoaib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shoaib | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
+<br /><br />
 
 <div align="center">
   <a href="https://github.com/Shoaib7889">
