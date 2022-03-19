@@ -26,9 +26,9 @@
 <hr /><br />
 
 <div align="center">
-  <a href="https://github.com/Shoaib7889">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shoaib7889&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib7889&layout=compact&langs_count=7&theme=gradient"/>
+  <a href="https://github.com/shoaibshebi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shoaibshebi&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibshebi&layout=compact&langs_count=7&theme=gradient"/>
 </div>
 
 ### Languages and Tools:
