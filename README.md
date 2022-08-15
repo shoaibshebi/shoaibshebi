@@ -25,7 +25,16 @@
 
 👈 <br />
 <hr /> 
-<br />
+
+<p align="center">
+<a href="https://github.com/shoaibshebi?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=shoaibshebi&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="shoaibshebi github-readme-streak-stats"/></a>
+</p>
+
+<p align="center">
+    <a href="">
+        <img src="https://activity-graph.herokuapp.com/graph?username=shoaibshebi&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="shoaibshebi activity graph">
+    </a>
+</p>
 
 <div align="center">
   <a href="https://github.com/shoaibshebi">
