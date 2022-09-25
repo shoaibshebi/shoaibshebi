@@ -20,13 +20,14 @@
 ---
 
 <br>
+
 ## Tech stack I've worked with:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibshebi&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="shoaibshebi" align="right">
 
 <h3 align="left">Blockchains</h3>
 <p align="left">
-    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="solidity"/> </a> <a href="https://www.hyperledger.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="solidity"/> </a>
+    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="solidity"/> </a> <a href="https://www.hyperledger.org/" target="_blank" rel="noreferrer"> Hyperledger Fabric </a>
 </p>
 
 <h3 align="left">Programming Lanugages I have work with:</h3>
@@ -79,7 +80,7 @@
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> </a>
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> AWS </a>
 </p>
 
 <br/>
