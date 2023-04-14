@@ -23,7 +23,7 @@
 
 ## Tech stack I've worked with:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibshebi&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="shoaibshebi" align="right">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shoaibshebi&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="shoaibshebi" align="right">
 
 <h3 align="left">Blockchains</h3>
 <p align="left">
@@ -107,8 +107,8 @@
 
 <div align="center">
   <a href="https://github.com/shoaibshebi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shoaibshebi&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibshebi&layout=compact&langs_count=7&theme=gradient"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shoaibshebi&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shoaibshebi&layout=compact&langs_count=7&theme=gradient"/>
 </div>
 
 <br />
