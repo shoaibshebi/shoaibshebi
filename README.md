@@ -4,14 +4,14 @@
 
 ### About Me 🚀
 
-## 'm a FullStack & Blockchain Developer, Tech Enthusiast, & Reader!!
+## 'm a Sr Frontend Engineer, Tech Enthusiast, & Reader!!
 
 <br/>
 
 - 👨‍🎓 **Always Student** with a bachelor's degree in Computer Science. </br>
-- 💻 **Experienced Developer** with **4** Years in React js having Redux , Saga , Material Ui & Node </br>
-- 👨🏼‍💻 **Technologies Worked On:** React js | Redux | Node js | Blockchain | Hyperledger | React-Native | Dockers | MongoDB | SQL | PHP </br>
-- 👨🏼‍💻 **Exploring Startups** and seeking opertunities to work with them</br>
+- 💻 **Experienced Developer** with **4** Years in React js having Redux, Saga, Material Ui & Node </br>
+- 👨🏼‍💻 **Technologies Worked On:** React js | Redux | Blockchain | Hyperledger | React-Native | Dockers | AWS </br>
+- 👨🏼‍💻 **Exploring Startups** and seeking opportunities to work with them</br>
 - 💬 Feel more than welcome to contact me if you need any help </br>
 
 <br/>
